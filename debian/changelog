@@ -1,3 +1,9 @@
+s6-portable-utils (2.2.2.4-1) stable; urgency=medium
+
+  * New upstream release.
+
+ -- multiplexd <multi@in-addr.xyz>  Wed, 10 Jun 2020 21:31:13 +0100
+
 s6-portable-utils (2.2.2.2-1) stable; urgency=medium
 
   * New upstream release.
