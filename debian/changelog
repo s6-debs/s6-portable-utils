@@ -1,3 +1,9 @@
+s6-portable-utils (2.2.3.0-1) stable; urgency=medium
+
+  * New upstream release.
+
+ -- multi <multi@in-addr.xyz>  Sun, 27 Dec 2020 07:18:21 +0000
+
 s6-portable-utils (2.2.2.4-1) stable; urgency=medium
 
   * New upstream release.
