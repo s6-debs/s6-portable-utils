@@ -2,7 +2,7 @@ Source: s6-portable-utils
 Section: utils
 Priority: optional
 Maintainer: multi <multi@in-addr.xyz>
-Build-Depends: debhelper (>= 10), quilt, libskarnet-dev (>= 2.9.3.0)
+Build-Depends: debhelper (>= 10), quilt, libskarnet-dev (>= 2.10.0.0)
 Standards-Version: 3.9.8
 Homepage: https://skarnet.org/software/s6-portable-utils/
 
