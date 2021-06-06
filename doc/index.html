@@ -51,6 +51,19 @@ the package is now used to host specific utilities such as
 <a href="s6-uniquename.html"><tt>s6-uniquename</tt></a>.
 </p>
 
+<p>
+ Prefixing the name of this package &mdash; and the names of the binaries it
+provides &mdash; with <tt>s6-</tt> was a naming mistake. It happened in the
+early days of the
+<a href="//skarnet.org/software/s6/">s6</a> project, before it grew and
+became an ecosystem focused on supervision, service management and init;
+despite sharing the same author and the same philosophy, and being designed
+to work with it, <tt>s6-portable-utils</tt> is <strong>not</strong>,
+stricto sensu, part of the s6 ecosystem, and if you arrived here while trying
+to understand what <a href="//skarnet.org/software/s6/">s6</a> is, you are
+on the wrong page. I apologize for the confusion.
+</p>
+
 <hr />
 
 <h2> Installation </h2>
@@ -61,7 +74,7 @@ the package is now used to host specific utilities such as
  <li> A POSIX-compliant system with a standard C development environment </li>
  <li> GNU make, version 3.81 or later </li>
  <li> <a href="//skarnet.org/software/skalibs/">skalibs</a> version
-2.10.0.0 or later. It's a build-time requirement. It's also a run-time
+2.10.0.3 or later. It's a build-time requirement. It's also a run-time
 requirement if you link against the shared version of the skalibs
 library. </li>
 </ul>
@@ -77,7 +90,7 @@ library. </li>
 
 <ul>
  <li> The current released version of s6-portable-utils is
-<a href="s6-portable-utils-2.2.3.1.tar.gz">2.2.3.1</a>. </li>
+<a href="s6-portable-utils-2.2.3.2.tar.gz">2.2.3.2</a>. </li>
  <li> Alternatively, you can checkout a copy of the
 <a href="//git.skarnet.org/cgi-bin/cgit.cgi/s6-portable-utils/">s6-portable-utils
 git repository</a>:
